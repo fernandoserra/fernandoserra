@@ -3,7 +3,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@fernando_Serra-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Fernando_Serra) 
 [![Mail Badge](https://img.shields.io/badge/-@fernando.serra.r-c94076?style=flat&labelColor=c94076&logo=instagram&logoColor=white)](https://instagram.com/fernando.serra.r) 
-[![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:fernando.serra.r@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-fernando.serra.r-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:fernando.serra.r@gmail.com)
 <!--
 **fernandoserra/fernandoserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
